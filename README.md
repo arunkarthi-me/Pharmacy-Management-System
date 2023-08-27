@@ -1,4 +1,4 @@
-# Pharmacy-Management-System
+# Pharmacy-Management-System using JAVA
 The pharmacy management system, also known as the pharmacy information system, is a system that stores data and enables functionality that organizes and maintains the medication use process within pharmacies.
 Necessary actions for a basic, functioning pharmacy management system include a user interface, data entry and retention, and security limits to protect patient health information. Pharmacy computer software is usually purchased readymade or provided by a drug wholesaler as part of their service. Various pharmacy software is used throughout the many practice settings of pharmacy across the world. 
 
