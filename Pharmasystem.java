@@ -1,6 +1,6 @@
 //PHARMACY MANAGEMENT SYSTEM
 import java.util.*;
-class pharmasystem                                  //CLASS 1
+class Pharmasystem                                  //CLASS 1
 {
  void user()                                       //User Login Function
  {
